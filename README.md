@@ -19,6 +19,14 @@ npm run dev
 
 This object has the following properties:
 
+- The string of the object is the colour(red), size(big), and startime(10:15).
+- The number of the object is the number of the bus(15).
+- The boolean of the object is "isDriving: true,".
+- the array of the object is passengers: ("John", "Patrick"),
+- the function of the object is toggleDriving: function() {
+     this.isDriving = !this.isDriving
+    },
+
 ## Minimum acceptance Criteria
 
 - Object has a `string` property
